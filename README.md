@@ -1,2 +1,4 @@
 # STAT311-proj
-STAT 311 Project
+A STAT 311 group project on Student Alcohol Consumption
+
+I performed Decision Trees & Random Forests/Bagging analysis on the data.
